@@ -1,0 +1,8 @@
+{
+    "env":{
+        "MONGO_USER":"ManwinderSingh",
+        "MONGO_PASS":"9910347671",
+        "MONGO_DATABASE":"shop",
+        "STRIPE_KEY":"sk_test_51H60VqDwCThPvCDGF0ZGdU2iEEO4ADyenaNg8reYID6G9DwaouLtIeZKs5U0DdirxFaxaY9lyar4Cid5DpUvmEOY00h06LbKeD"
+    }
+}
