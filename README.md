@@ -6,12 +6,12 @@
 You have to use replace some variables with the value
 
 Go to the mongodb atlas and create a cluster in which you will find a uri and change the following in app.js.
--${process.env.MONGO_USER}: your username
--${process.env.MONGO_PASS}: your password
--${process.env.MONGO_DATABASE}: the name of your database
+- ${process.env.MONGO_USER}: your username
+- ${process.env.MONGO_PASS}: your password
+- ${process.env.MONGO_DATABASE}: the name of your database
 
 Now go to Stripe and create an account and go to the shop.js in controllers.
--process.env.STRIPE_KEY: You will find a key there
+* process.env.STRIPE_KEY: You will find a key there
 
 You are all set to run this code.
 
