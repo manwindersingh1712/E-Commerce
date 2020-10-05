@@ -2,7 +2,7 @@
 
 This is a proper functional website with a basic ui. I have used node.js , express.js and many more 3rd party packages to complete this project.<br/>
 Visit my Website: https://manwinder-shop.herokuapp.com/ <br/>
-You can also see my resume at https://manwindersingh1712.github.io/portfolio.os/
+To see my front-end development skills watch out this https://manwindersingh1712.github.io/portfolio.os/
 
 ## Setup
 
